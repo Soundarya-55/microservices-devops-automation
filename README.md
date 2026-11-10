@@ -1,5 +1,5 @@
 # Microservices DevOps Automation
-<img width="400" height="300" alt="docsdevops-workflow png" src="https://github.com/user-attachments/assets/8935957a-3b46-4fa0-813a-dc9ea84a6744" />
+<img width="600" height="500" alt="docsdevops-workflow png" src="https://github.com/user-attachments/assets/8935957a-3b46-4fa0-813a-dc9ea84a6744" />
 
 
 ## Project Description
