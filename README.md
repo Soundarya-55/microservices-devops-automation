@@ -1,7 +1,6 @@
 # Microservices DevOps Automation
-## DevOps Workflow
+<img width="1536" height="1024" alt="docsdevops-workflow png" src="https://github.com/user-attachments/assets/8935957a-3b46-4fa0-813a-dc9ea84a6744" />
 
-![Microservices DevOps Workflow](docs/devops-workflow.png)
 
 ## Project Description
 
