@@ -1,5 +1,7 @@
 # Microservices DevOps Automation
-![Uploading image.png…]()
+## DevOps Workflow
+
+![Microservices DevOps Workflow](docs/devops-workflow.png)
 
 ## Project Description
 
