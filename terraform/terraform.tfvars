@@ -1,0 +1,5 @@
+aws_region      = "eu-north-1"
+project_name    = "microservices-devops"
+instance_type   = "t3.small"
+key_pair_name   = "demo.py"
+ssh_allowed_cidr = "13.61.32.127/32"
