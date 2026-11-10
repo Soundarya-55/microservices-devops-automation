@@ -22,7 +22,7 @@ pipeline {
 
         stage('Build Microservices') {
             steps {
-                sh 'COMPOSE_BAKE=false docker compose build --parallel 1'
+                sh 'COMPOSE_BAKE=false docker compose build'
             }
         }
 
